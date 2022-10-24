@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bryan Ade Bandasi
+- 👋 Hi, I’m Bryan Ade Bandaso
 - 👀 I’m interested in Website Design Developer
 - 🌱 I’m currently learning Html, CSS, & Bootstrap
 
