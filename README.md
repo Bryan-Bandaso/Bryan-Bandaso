@@ -4,7 +4,7 @@
 - - 🥅 2023 Goals: finish my study at Institut Teknologi Telkom Purwokerto
 - 🌱 &nbsp;I’m currently learning website design developer
 - 📫 &nbsp;How to reach me: 📧 bryan.bandaso11102000@gmail.com
-- ⚡ &nbsp;Fun fact: I :heart: 🐱:s
+- ⚡ &nbsp;Fun fact: I :heart: 🐱:
 
 
 🔗 &nbsp;**Connect with me**
